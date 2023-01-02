@@ -4,3 +4,5 @@ review git
 + git restore
 + git add
 + git commit
++ git push 
++ git pull
