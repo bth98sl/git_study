@@ -22,3 +22,8 @@ repository (repo)
 git clone <URL>
 git push
 git pull
+========================================================
+git checkout -b <branch_name>:
+    - create a new branch
+    - checkout <branch_name>
+
